@@ -1,4 +1,4 @@
-#Code Book for Getting and Cleaning Data Course Project
+# Code Book for Getting and Cleaning Data Course Project
 
 Source of the original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
